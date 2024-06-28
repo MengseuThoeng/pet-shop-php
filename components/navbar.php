@@ -7,7 +7,7 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <div class="navbar-nav ms-auto py-0">
-                <a href="pages/index.php" class="nav-item nav-link active">Home</a>
+                <a href="index.php" class="nav-item nav-link active">Home</a>
                 <a href="pages/about.php" class="nav-item nav-link">About</a>
                 <a href="pages/service.php" class="nav-item nav-link">Service</a>
                 <a href="pages/product.php" class="nav-item nav-link">Product</a>
@@ -21,7 +21,7 @@
                         <a href="pages/detail.php" class="dropdown-item">Blog Detail</a>
                     </div>
                 </div>
-                <a href="contact.php" class="nav-item nav-link nav-contact bg-primary text-white px-5 ms-lg-5">Contact <i class="bi bi-arrow-right"></i></a>
+                <a href="pages/contact.php" class="nav-item nav-link nav-contact bg-primary text-white px-5 ms-lg-5">Contact <i class="bi bi-arrow-right"></i></a>
             </div>
         </div>
     </nav>
