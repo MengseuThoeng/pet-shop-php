@@ -59,72 +59,72 @@
     <!-- Services Start -->
     <div class="container-fluid py-5">
         <div class="container">
-            <div class="border-start border-5 border-primary ps-5 mb-5" style="max-width: 600px;">
-                <h6 class="text-primary text-uppercase">Services</h6>
-                <h1 class="display-5 text-uppercase mb-0">Our Excellent Pet Care Services</h1>
-            </div>
-            <div class="row g-5">
-                <div class="col-md-6">
-                    <div class="service-item bg-light d-flex p-4">
-                        <i class="flaticon-house display-1 text-primary me-4"></i>
-                        <div>
-                            <h5 class="text-uppercase mb-3">Pet Boarding</h5>
-                            <p>Kasd dolor no lorem sit tempor at justo rebum rebum stet justo elitr dolor amet sit</p>
-                            <a class="text-primary text-uppercase" href="">Read More<i class="bi bi-chevron-right"></i></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6">
-                    <div class="service-item bg-light d-flex p-4">
-                        <i class="flaticon-food display-1 text-primary me-4"></i>
-                        <div>
-                            <h5 class="text-uppercase mb-3">Pet Feeding</h5>
-                            <p>Kasd dolor no lorem sit tempor at justo rebum rebum stet justo elitr dolor amet sit</p>
-                            <a class="text-primary text-uppercase" href="">Read More<i class="bi bi-chevron-right"></i></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6">
-                    <div class="service-item bg-light d-flex p-4">
-                        <i class="flaticon-grooming display-1 text-primary me-4"></i>
-                        <div>
-                            <h5 class="text-uppercase mb-3">Pet Grooming</h5>
-                            <p>Kasd dolor no lorem sit tempor at justo rebum rebum stet justo elitr dolor amet sit</p>
-                            <a class="text-primary text-uppercase" href="">Read More<i class="bi bi-chevron-right"></i></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6">
-                    <div class="service-item bg-light d-flex p-4">
-                        <i class="flaticon-cat display-1 text-primary me-4"></i>
-                        <div>
-                            <h5 class="text-uppercase mb-3">Pet Training</h5>
-                            <p>Kasd dolor no lorem sit tempor at justo rebum rebum stet justo elitr dolor amet sit</p>
-                            <a class="text-primary text-uppercase" href="">Read More<i class="bi bi-chevron-right"></i></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6">
-                    <div class="service-item bg-light d-flex p-4">
-                        <i class="flaticon-dog display-1 text-primary me-4"></i>
-                        <div>
-                            <h5 class="text-uppercase mb-3">Pet Exercise</h5>
-                            <p>Kasd dolor no lorem sit tempor at justo rebum rebum stet justo elitr dolor amet sit</p>
-                            <a class="text-primary text-uppercase" href="">Read More<i class="bi bi-chevron-right"></i></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6">
-                    <div class="service-item bg-light d-flex p-4">
-                        <i class="flaticon-vaccine display-1 text-primary me-4"></i>
-                        <div>
-                            <h5 class="text-uppercase mb-3">Pet Treatment</h5>
-                            <p>Kasd dolor no lorem sit tempor at justo rebum rebum stet justo elitr dolor amet sit</p>
-                            <a class="text-primary text-uppercase" href="">Read More<i class="bi bi-chevron-right"></i></a>
-                        </div>
+        <div class="border-start border-5 border-primary ps-5 mb-5" style="max-width: 600px;">
+            <h6 class="text-primary text-uppercase">Services</h6>
+            <h1 class="display-5 text-uppercase mb-0">Our Excellent Pet Care Services</h1>
+        </div>
+        <div class="row g-5">
+            <div class="col-md-6">
+                <div class="service-item bg-light d-flex p-4">
+                    <i class="flaticon-house display-1 text-primary me-4"></i>
+                    <div>
+                        <h5 class="text-uppercase mb-3">Pet Boarding</h5>
+                        <p>Our comfortable and safe boarding facilities ensure your pets feel at home while you're away.</p>
+                        <a class="text-primary text-uppercase" href="">Read More<i class="bi bi-chevron-right"></i></a>
                     </div>
                 </div>
             </div>
+            <div class="col-md-6">
+                <div class="service-item bg-light d-flex p-4">
+                    <i class="flaticon-food display-1 text-primary me-4"></i>
+                    <div>
+                        <h5 class="text-uppercase mb-3">Pet Feeding</h5>
+                        <p>We provide nutritious meals tailored to your pet's dietary needs and preferences.</p>
+                        <a class="text-primary text-uppercase" href="">Read More<i class="bi bi-chevron-right"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="service-item bg-light d-flex p-4">
+                    <i class="flaticon-grooming display-1 text-primary me-4"></i>
+                    <div>
+                        <h5 class="text-uppercase mb-3">Pet Grooming</h5>
+                        <p>Our grooming services keep your pets clean, healthy, and looking their best.</p>
+                        <a class="text-primary text-uppercase" href="">Read More<i class="bi bi-chevron-right"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="service-item bg-light d-flex p-4">
+                    <i class="flaticon-dog display-1 text-primary me-4"></i>
+                    <div>
+                        <h5 class="text-uppercase mb-3">Pet Training</h5>
+                        <p>Our professional trainers help your pets learn good behavior and new tricks.</p>
+                        <a class="text-primary text-uppercase" href="">Read More<i class="bi bi-chevron-right"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="service-item bg-light d-flex p-4">
+                    <i class="flaticon-dog display-1 text-primary me-4"></i>
+                    <div>
+                        <h5 class="text-uppercase mb-3">Pet Exercise</h5>
+                        <p>We ensure your pets get the exercise they need to stay healthy and active.</p>
+                        <a class="text-primary text-uppercase" href="">Read More<i class="bi bi-chevron-right"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="service-item bg-light d-flex p-4">
+                    <i class="flaticon-vaccine display-1 text-primary me-4"></i>
+                    <div>
+                        <h5 class="text-uppercase mb-3">Pet Treatment</h5>
+                        <p>Our veterinary services provide comprehensive care to keep your pets healthy.</p>
+                        <a class="text-primary text-uppercase" href="">Read More<i class="bi bi-chevron-right"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
         </div>
     </div>
     <!-- Services End -->
@@ -200,21 +200,9 @@
 
 
     <!-- Offer Start -->
-    <div class="container-fluid bg-offer my-5 py-5">
-        <div class="container py-5">
-            <div class="row gx-5 justify-content-start">
-                <div class="col-lg-7">
-                    <div class="border-start border-5 border-dark ps-5 mb-5">
-                        <h6 class="text-dark text-uppercase">Special Offer</h6>
-                        <h1 class="display-5 text-uppercase text-white mb-0">Save 50% on all items your first order</h1>
-                    </div>
-                    <p class="text-white mb-4">Eirmod sed tempor lorem ut dolores sit kasd ipsum. Dolor ea et dolore et at sea ea at dolor justo ipsum duo rebum sea. Eos vero eos vero ea et dolore eirmod et. Dolores diam duo lorem. Elitr ut dolores magna sit. Sea dolore sed et.</p>
-                    <a href="" class="btn btn-light py-md-3 px-md-5 me-3">Shop Now</a>
-                    <a href="" class="btn btn-outline-light py-md-3 px-md-5">Read More</a>
-                </div>
-            </div>
-        </div>
-    </div>
+    <?php
+        require_once 'components/offer.php';
+    ?>
     <!-- Offer End -->
 
 
@@ -226,133 +214,58 @@
 
 
     <!-- Team Start -->
-    <div class="container-fluid py-5">
-        <div class="container">
-            <div class="border-start border-5 border-primary ps-5 mb-5" style="max-width: 600px;">
-                <h6 class="text-primary text-uppercase">Team Members</h6>
-                <h1 class="display-5 text-uppercase mb-0">Qualified Pets Care Professionals</h1>
-            </div>
-            <div class="owl-carousel team-carousel position-relative" style="padding-right: 25px;">
-                <div class="team-item">
-                    <div class="position-relative overflow-hidden">
-                        <img class="img-fluid w-100" src="img/team-1.jpg" alt="">
-                        <div class="team-overlay">
-                            <div class="d-flex align-items-center justify-content-start">
-                                <a class="btn btn-light btn-square mx-1" href="#"><i class="bi bi-twitter"></i></a>
-                                <a class="btn btn-light btn-square mx-1" href="#"><i class="bi bi-facebook"></i></a>
-                                <a class="btn btn-light btn-square mx-1" href="#"><i class="bi bi-linkedin"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="bg-light text-center p-4">
-                        <h5 class="text-uppercase">Full Name</h5>
-                        <p class="m-0">Designation</p>
-                    </div>
-                </div>
-                <div class="team-item">
-                    <div class="position-relative overflow-hidden">
-                        <img class="img-fluid w-100" src="img/team-2.jpg" alt="">
-                        <div class="team-overlay">
-                            <div class="d-flex align-items-center justify-content-start">
-                                <a class="btn btn-light btn-square mx-1" href="#"><i class="bi bi-twitter"></i></a>
-                                <a class="btn btn-light btn-square mx-1" href="#"><i class="bi bi-facebook"></i></a>
-                                <a class="btn btn-light btn-square mx-1" href="#"><i class="bi bi-linkedin"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="bg-light text-center p-4">
-                        <h5 class="text-uppercase">Full Name</h5>
-                        <p class="m-0">Designation</p>
-                    </div>
-                </div>
-                <div class="team-item">
-                    <div class="position-relative overflow-hidden">
-                        <img class="img-fluid w-100" src="img/team-3.jpg" alt="">
-                        <div class="team-overlay">
-                            <div class="d-flex align-items-center justify-content-start">
-                                <a class="btn btn-light btn-square mx-1" href="#"><i class="bi bi-twitter"></i></a>
-                                <a class="btn btn-light btn-square mx-1" href="#"><i class="bi bi-facebook"></i></a>
-                                <a class="btn btn-light btn-square mx-1" href="#"><i class="bi bi-linkedin"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="bg-light text-center p-4">
-                        <h5 class="text-uppercase">Full Name</h5>
-                        <p class="m-0">Designation</p>
-                    </div>
-                </div>
-                <div class="team-item">
-                    <div class="position-relative overflow-hidden">
-                        <img class="img-fluid w-100" src="img/team-4.jpg" alt="">
-                        <div class="team-overlay">
-                            <div class="d-flex align-items-center justify-content-start">
-                                <a class="btn btn-light btn-square mx-1" href="#"><i class="bi bi-twitter"></i></a>
-                                <a class="btn btn-light btn-square mx-1" href="#"><i class="bi bi-facebook"></i></a>
-                                <a class="btn btn-light btn-square mx-1" href="#"><i class="bi bi-linkedin"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="bg-light text-center p-4">
-                        <h5 class="text-uppercase">Full Name</h5>
-                        <p class="m-0">Designation</p>
-                    </div>
-                </div>
-                <div class="team-item">
-                    <div class="position-relative overflow-hidden">
-                        <img class="img-fluid w-100" src="img/team-5.jpg" alt="">
-                        <div class="team-overlay">
-                            <div class="d-flex align-items-center justify-content-start">
-                                <a class="btn btn-light btn-square mx-1" href="#"><i class="bi bi-twitter"></i></a>
-                                <a class="btn btn-light btn-square mx-1" href="#"><i class="bi bi-facebook"></i></a>
-                                <a class="btn btn-light btn-square mx-1" href="#"><i class="bi bi-linkedin"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="bg-light text-center p-4">
-                        <h5 class="text-uppercase">Full Name</h5>
-                        <p class="m-0">Designation</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+    <?php
+        require_once 'components/team.php';
+    ?>
     <!-- Team End -->
 
 
     <!-- Testimonial Start -->
     <div class="container-fluid bg-testimonial py-5" style="margin: 45px 0;">
         <div class="container py-5">
-            <div class="row justify-content-end">
-                <div class="col-lg-7">
-                    <div class="owl-carousel testimonial-carousel bg-white p-5">
-                        <div class="testimonial-item text-center">
-                            <div class="position-relative mb-4">
-                                <img class="img-fluid mx-auto" src="img/testimonial-1.jpg" alt="">
-                                <div class="position-absolute top-100 start-50 translate-middle d-flex align-items-center justify-content-center bg-white" style="width: 45px; height: 45px;">
-                                    <i class="bi bi-chat-square-quote text-primary"></i>
-                                </div>
+        <div class="row justify-content-end">
+            <div class="col-lg-7">
+                <div class="owl-carousel testimonial-carousel bg-white p-5">
+                    <div class="testimonial-item text-center">
+                        <div class="position-relative mb-4">
+                            <img class="img-fluid mx-auto" src="img/testimonial-1.jpg" alt="">
+                            <div class="position-absolute top-100 start-50 translate-middle d-flex align-items-center justify-content-center bg-white" style="width: 45px; height: 45px;">
+                                <i class="bi bi-chat-square-quote text-primary"></i>
                             </div>
-                            <p>Dolores sed duo clita tempor justo dolor et stet lorem kasd labore dolore lorem ipsum. At lorem lorem magna ut et, nonumy et labore et tempor diam tempor erat. Erat dolor rebum sit ipsum.</p>
-                            <hr class="w-25 mx-auto">
-                            <h5 class="text-uppercase">Client Name</h5>
-                            <span>Profession</span>
                         </div>
-                        <div class="testimonial-item text-center">
-                            <div class="position-relative mb-4">
-                                <img class="img-fluid mx-auto" src="img/testimonial-2.jpg" alt="">
-                                <div class="position-absolute top-100 start-50 translate-middle d-flex align-items-center justify-content-center bg-white" style="width: 45px; height: 45px;">
-                                    <i class="bi bi-chat-square-quote text-primary"></i>
-                                </div>
+                        <p>I couldn't be happier with the care my dog receives at Happy Paws. The staff is incredibly friendly and knowledgeable. My dog always comes home happy and well-groomed.</p>
+                        <hr class="w-25 mx-auto">
+                        <h5 class="text-uppercase">John Doe</h5>
+                        <span>Graphic Designer</span>
+                    </div>
+                    <div class="testimonial-item text-center">
+                        <div class="position-relative mb-4">
+                            <img class="img-fluid mx-auto" src="img/testimonial-2.jpg" alt="">
+                            <div class="position-absolute top-100 start-50 translate-middle d-flex align-items-center justify-content-center bg-white" style="width: 45px; height: 45px;">
+                                <i class="bi bi-chat-square-quote text-primary"></i>
                             </div>
-                            <p>Dolores sed duo clita tempor justo dolor et stet lorem kasd labore dolore lorem ipsum. At lorem lorem magna ut et, nonumy et labore et tempor diam tempor erat. Erat dolor rebum sit ipsum.</p>
-                            <hr class="w-25 mx-auto">
-                            <h5 class="text-uppercase">Client Name</h5>
-                            <span>Profession</span>
                         </div>
+                        <p>Happy Paws has been a lifesaver for us. We travel frequently and knowing our dog is in good hands makes all the difference. The team is professional and truly loves animals.</p>
+                        <hr class="w-25 mx-auto">
+                        <h5 class="text-uppercase">Jane Smith</h5>
+                        <span>Travel Blogger</span>
+                    </div>
+                    <div class="testimonial-item text-center">
+                        <div class="position-relative mb-4">
+                            <img class="img-fluid mx-auto" src="img/user.jpg" alt="">
+                            <div class="position-absolute top-100 start-50 translate-middle d-flex align-items-center justify-content-center bg-white" style="width: 45px; height: 45px;">
+                                <i class="bi bi-chat-square-quote text-primary"></i>
+                            </div>
+                        </div>
+                        <p>Our puppy loves going to Happy Paws for daycare. The facilities are clean, and the staff is always attentive. We've noticed a positive change in our pup's behavior since starting here.</p>
+                        <hr class="w-25 mx-auto">
+                        <h5 class="text-uppercase">Emily Johnson</h5>
+                        <span>Teacher</span>
                     </div>
                 </div>
             </div>
         </div>
+         </div>
     </div>
     <!-- Testimonial End -->
 
@@ -360,54 +273,55 @@
     <!-- Blog Start -->
     <div class="container-fluid py-5">
         <div class="container">
-            <div class="border-start border-5 border-primary ps-5 mb-5" style="max-width: 600px;">
-                <h6 class="text-primary text-uppercase">Latest Blog</h6>
-                <h1 class="display-5 text-uppercase mb-0">Latest Articles From Our Blog Post</h1>
-            </div>
-            <div class="row g-5">
-                <div class="col-lg-6">
-                    <div class="blog-item">
-                        <div class="row g-0 bg-light overflow-hidden">
-                            <div class="col-12 col-sm-5 h-100">
-                                <img class="img-fluid h-100" src="img/blog-1.jpg" style="object-fit: cover;">
-                            </div>
-                            <div class="col-12 col-sm-7 h-100 d-flex flex-column justify-content-center">
-                                <div class="p-4">
-                                    <div class="d-flex mb-3">
-                                        <small class="me-3"><i class="bi bi-bookmarks me-2"></i>Web Design</small>
-                                        <small><i class="bi bi-calendar-date me-2"></i>01 Jan, 2045</small>
-                                    </div>
-                                    <h5 class="text-uppercase mb-3">Dolor sit magna rebum clita rebum dolor</h5>
-                                    <p>Ipsum sed lorem amet dolor amet duo ipsum amet et dolore est stet tempor eos dolor</p>
-                                    <a class="text-primary text-uppercase" href="">Read More<i class="bi bi-chevron-right"></i></a>
+        <div class="border-start border-5 border-primary ps-5 mb-5" style="max-width: 600px;">
+            <h6 class="text-primary text-uppercase">Latest Blog</h6>
+            <h1 class="display-5 text-uppercase mb-0">Latest Articles From Our Blog Post</h1>
+        </div>
+        <div class="row g-5">
+            <div class="col-lg-6">
+                <div class="blog-item">
+                    <div class="row g-0 bg-light overflow-hidden">
+                        <div class="col-12 col-sm-5 h-100">
+                            <img class="img-fluid h-100" src="img/blog-1.jpg" alt="Dog Image" style="object-fit: cover;">
+                        </div>
+                        <div class="col-12 col-sm-7 h-100 d-flex flex-column justify-content-center">
+                            <div class="p-4">
+                                <div class="d-flex mb-3">
+                                    <small class="me-3"><i class="bi bi-bookmarks me-2"></i>Pet Care</small>
+                                    <small><i class="bi bi-calendar-date me-2"></i>June 29, 2024</small>
                                 </div>
+                                <h5 class="text-uppercase mb-3">Understanding Your Dog's Body Language</h5>
+                                <p>Dogs communidoge through body language. Learn how to understand your dog's signals for a happier relationship.</p>
+                                <a class="text-primary text-uppercase" href="#">Read More<i class="bi bi-chevron-right"></i></a>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-6">
-                    <div class="blog-item">
-                        <div class="row g-0 bg-light overflow-hidden">
-                            <div class="col-12 col-sm-5 h-100">
-                                <img class="img-fluid h-100" src="img/blog-2.jpg" style="object-fit: cover;">
-                            </div>
-                            <div class="col-12 col-sm-7 h-100 d-flex flex-column justify-content-center">
-                                <div class="p-4">
-                                    <div class="d-flex mb-3">
-                                        <small class="me-3"><i class="bi bi-bookmarks me-2"></i>Web Design</small>
-                                        <small><i class="bi bi-calendar-date me-2"></i>01 Jan, 2045</small>
-                                    </div>
-                                    <h5 class="text-uppercase mb-3">Dolor sit magna rebum clita rebum dolor</h5>
-                                    <p>Ipsum sed lorem amet dolor amet duo ipsum amet et dolore est stet tempor eos dolor</p>
-                                    <a class="text-primary text-uppercase" href="">Read More<i class="bi bi-chevron-right"></i></a>
+            </div>
+            <div class="col-lg-6">
+                <div class="blog-item">
+                    <div class="row g-0 bg-light overflow-hidden">
+                        <div class="col-12 col-sm-5 h-100">
+                            <img class="img-fluid h-100" src="img/blog-2" alt="dog Image" style="object-fit: cover;">
+                        </div>
+                        <div class="col-12 col-sm-7 h-100 d-flex flex-column justify-content-center">
+                            <div class="p-4">
+                                <div class="d-flex mb-3">
+                                    <small class="me-3"><i class="bi bi-bookmarks me-2"></i>Pet Health</small>
+                                    <small><i class="bi bi-calendar-date me-2"></i>June 30, 2024</small>
                                 </div>
+                                <h5 class="text-uppercase mb-3">Tips for Keeping Your dog Active Indoors</h5>
+                                <p>Indoor dogs need stimulation. Discover ways to keep your dog entertained and healthy without going outdoors.</p>
+                                <a class="text-primary text-uppercase" href="#">Read More<i class="bi bi-chevron-right"></i></a>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
+        </div>
     </div>
+
     <!-- Blog End -->
     
 

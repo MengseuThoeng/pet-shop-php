@@ -39,12 +39,9 @@
                 <a href="service.php" class="nav-item nav-link">Service</a>
                 <a href="product.php" class="nav-item nav-link">Product</a>
                 <div class="nav-item dropdown">
-                    <a href="#" class="nav-link dropdown-toggle active" data-bs-toggle="dropdown">Pages</a>
+                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Blogs</a>
                     <div class="dropdown-menu m-0">
-                        <a href="price.php" class="dropdown-item">Pricing Plan</a> 
-                        <a href="team.php" class="dropdown-item">The Team</a>
-                        <a href="testimonial.php" class="dropdown-item">Testimonial</a>
-                        <a href="blog.php" class="dropdown-item active">Blog Grid</a>
+                        <a href="blog.php" class="dropdown-item">Blog Grid</a>
                         <a href="detail.php" class="dropdown-item">Blog Detail</a>
                     </div>
                 </div>

@@ -39,11 +39,8 @@
                 <a href="service.php" class="nav-item nav-link">Service</a>
                 <a href="product.php" class="nav-item nav-link">Product</a>
                 <div class="nav-item dropdown">
-                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
+                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Blogs</a>
                     <div class="dropdown-menu m-0">
-                        <a href="price.php" class="dropdown-item">Pricing Plan</a>
-                        <a href="team.php" class="dropdown-item">The Team</a>
-                        <a href="testimonial.php" class="dropdown-item">Testimonial</a>
                         <a href="blog.php" class="dropdown-item">Blog Grid</a>
                         <a href="detail.php" class="dropdown-item">Blog Detail</a>
                     </div>
@@ -69,7 +66,7 @@
                         <h6 class="text-primary text-uppercase">About Us</h6>
                         <h1 class="display-5 text-uppercase mb-0">We Keep Your Pets Happy All Time</h1>
                     </div>
-                    <h4 class="text-body mb-4">Diam dolor diam ipsum tempor sit. Clita erat ipsum et lorem stet no labore lorem sit clita duo justo magna dolore</h4>
+                    <h4 class="text-body mb-4">We provide high-quality products and services to ensure your pets are healthy and happy. Our dedicated team is always here to help you with your pet care needs.</h4>
                     <div class="bg-light p-4">
                         <ul class="nav nav-pills justify-content-between mb-3" id="pills-tab" role="tablist">
                             <li class="nav-item w-50" role="presentation">
@@ -85,10 +82,10 @@
                         </ul>
                         <div class="tab-content" id="pills-tabContent">
                             <div class="tab-pane fade show active" id="pills-1" role="tabpanel" aria-labelledby="pills-1-tab">
-                                <p class="mb-0">Tempor erat elitr at rebum at at clita aliquyam consetetur. Diam dolor diam ipsum et, tempor voluptua sit consetetur sit. Aliquyam diam amet diam et eos sadipscing labore. Clita erat ipsum et lorem et sit, sed stet no labore lorem sit. Sanctus clita duo justo et tempor consetetur takimata eirmod, dolores takimata consetetur invidunt magna dolores aliquyam dolores dolore. Amet erat amet et magna</p>
+                                <p class="mb-0">Our mission is to offer top-notch products and exceptional services that enhance the well-being of pets. We strive to create a nurturing and joyful environment for pets and their owners.</p>
                             </div>
                             <div class="tab-pane fade" id="pills-2" role="tabpanel" aria-labelledby="pills-2-tab">
-                                <p class="mb-0">Tempor erat elitr at rebum at at clita aliquyam consetetur. Diam dolor diam ipsum et, tempor voluptua sit consetetur sit. Aliquyam diam amet diam et eos sadipscing labore. Clita erat ipsum et lorem et sit, sed stet no labore lorem sit. Sanctus clita duo justo et tempor consetetur takimata eirmod, dolores takimata consetetur invidunt magna dolores aliquyam dolores dolore. Amet erat amet et magna</p>
+                                <p class="mb-0">Our vision is to be the leading pet care provider, known for our dedication to pet health and happiness. We aim to innovate and continuously improve our offerings to meet the evolving needs of pets and their families.</p>
                             </div>
                         </div>
                     </div>
@@ -100,113 +97,99 @@
 
 
     <!-- Offer Start -->
-    <div class="container-fluid bg-offer my-5 py-5">
-        <div class="container py-5">
-            <div class="row gx-5 justify-content-start">
-                <div class="col-lg-7">
-                    <div class="border-start border-5 border-dark ps-5 mb-5">
-                        <h6 class="text-dark text-uppercase">Special Offer</h6>
-                        <h1 class="display-5 text-uppercase text-white mb-0">Save 50% on all items your first order</h1>
-                    </div>
-                    <p class="text-white mb-4">Eirmod sed tempor lorem ut dolores sit kasd ipsum. Dolor ea et dolore et at sea ea at dolor justo ipsum duo rebum sea. Eos vero eos vero ea et dolore eirmod et. Dolores diam duo lorem. Elitr ut dolores magna sit. Sea dolore sed et.</p>
-                    <a href="" class="btn btn-light py-md-3 px-md-5 me-3">Shop Now</a>
-                    <a href="" class="btn btn-outline-light py-md-3 px-md-5">Read More</a>
-                </div>
-            </div>
-        </div>
-    </div>
+    <?php include_once '../components/offer.php'; ?>
     <!-- Offer End -->
 
 
     <!-- Team Start -->
     <div class="container-fluid py-5">
         <div class="container">
-            <div class="border-start border-5 border-primary ps-5 mb-5" style="max-width: 600px;">
-                <h6 class="text-primary text-uppercase">Team Members</h6>
-                <h1 class="display-5 text-uppercase mb-0">Qualified Pets Care Professionals</h1>
-            </div>
-            <div class="owl-carousel team-carousel position-relative" style="padding-right: 25px;">
-                <div class="team-item">
-                    <div class="position-relative overflow-hidden">
-                        <img class="img-fluid w-100" src="../img/team-1.jpg" alt="">
-                        <div class="team-overlay">
-                            <div class="d-flex align-items-center justify-content-start">
-                                <a class="btn btn-light btn-square mx-1" href="#"><i class="bi bi-twitter"></i></a>
-                                <a class="btn btn-light btn-square mx-1" href="#"><i class="bi bi-facebook"></i></a>
-                                <a class="btn btn-light btn-square mx-1" href="#"><i class="bi bi-linkedin"></i></a>
-                            </div>
+        <div class="border-start border-5 border-primary ps-5 mb-5" style="max-width: 600px;">
+            <h6 class="text-primary text-uppercase">Team Members</h6>
+            <h1 class="display-5 text-uppercase mb-0">Qualified Pets Care Professionals</h1>
+        </div>
+        <div class="owl-carousel team-carousel position-relative" style="padding-right: 25px;">
+            <div class="team-item">
+                <div class="position-relative overflow-hidden">
+                    <img class="img-fluid w-100" src="../img/team-1.jpg" alt="Team Member">
+                    <div class="team-overlay">
+                        <div class="d-flex align-items-center justify-content-start">
+                            <a class="btn btn-light btn-square mx-1" href="#"><i class="bi bi-twitter"></i></a>
+                            <a class="btn btn-light btn-square mx-1" href="#"><i class="bi bi-facebook"></i></a>
+                            <a class="btn btn-light btn-square mx-1" href="#"><i class="bi bi-linkedin"></i></a>
                         </div>
-                    </div>
-                    <div class="bg-light text-center p-4">
-                        <h5 class="text-uppercase">Full Name</h5>
-                        <p class="m-0">Designation</p>
                     </div>
                 </div>
-                <div class="team-item">
-                    <div class="position-relative overflow-hidden">
-                        <img class="img-fluid w-100" src="../img/team-2.jpg" alt="">
-                        <div class="team-overlay">
-                            <div class="d-flex align-items-center justify-content-start">
-                                <a class="btn btn-light btn-square mx-1" href="#"><i class="bi bi-twitter"></i></a>
-                                <a class="btn btn-light btn-square mx-1" href="#"><i class="bi bi-facebook"></i></a>
-                                <a class="btn btn-light btn-square mx-1" href="#"><i class="bi bi-linkedin"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="bg-light text-center p-4">
-                        <h5 class="text-uppercase">Full Name</h5>
-                        <p class="m-0">Designation</p>
-                    </div>
-                </div>
-                <div class="team-item">
-                    <div class="position-relative overflow-hidden">
-                        <img class="img-fluid w-100" src="../img/team-3.jpg" alt="">
-                        <div class="team-overlay">
-                            <div class="d-flex align-items-center justify-content-start">
-                                <a class="btn btn-light btn-square mx-1" href="#"><i class="bi bi-twitter"></i></a>
-                                <a class="btn btn-light btn-square mx-1" href="#"><i class="bi bi-facebook"></i></a>
-                                <a class="btn btn-light btn-square mx-1" href="#"><i class="bi bi-linkedin"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="bg-light text-center p-4">
-                        <h5 class="text-uppercase">Full Name</h5>
-                        <p class="m-0">Designation</p>
-                    </div>
-                </div>
-                <div class="team-item">
-                    <div class="position-relative overflow-hidden">
-                        <img class="img-fluid w-100" src="../img/team-4.jpg" alt="">
-                        <div class="team-overlay">
-                            <div class="d-flex align-items-center justify-content-start">
-                                <a class="btn btn-light btn-square mx-1" href="#"><i class="bi bi-twitter"></i></a>
-                                <a class="btn btn-light btn-square mx-1" href="#"><i class="bi bi-facebook"></i></a>
-                                <a class="btn btn-light btn-square mx-1" href="#"><i class="bi bi-linkedin"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="bg-light text-center p-4">
-                        <h5 class="text-uppercase">Full Name</h5>
-                        <p class="m-0">Designation</p>
-                    </div>
-                </div>
-                <div class="team-item">
-                    <div class="position-relative overflow-hidden">
-                        <img class="img-fluid w-100" src="../img/team-5.jpg" alt="">
-                        <div class="team-overlay">
-                            <div class="d-flex align-items-center justify-content-start">
-                                <a class="btn btn-light btn-square mx-1" href="#"><i class="bi bi-twitter"></i></a>
-                                <a class="btn btn-light btn-square mx-1" href="#"><i class="bi bi-facebook"></i></a>
-                                <a class="btn btn-light btn-square mx-1" href="#"><i class="bi bi-linkedin"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="bg-light text-center p-4">
-                        <h5 class="text-uppercase">Full Name</h5>
-                        <p class="m-0">Designation</p>
-                    </div>
+                <div class="bg-light text-center p-4">
+                    <h5 class="text-uppercase">Dr. Sarah Smith</h5>
+                    <p class="m-0">Veterinarian</p>
                 </div>
             </div>
+            <div class="team-item">
+                <div class="position-relative overflow-hidden">
+                    <img class="img-fluid w-100" src="../img/team-2.jpg" alt="Team Member">
+                    <div class="team-overlay">
+                        <div class="d-flex align-items-center justify-content-start">
+                            <a class="btn btn-light btn-square mx-1" href="#"><i class="bi bi-twitter"></i></a>
+                            <a class="btn btn-light btn-square mx-1" href="#"><i class="bi bi-facebook"></i></a>
+                            <a class="btn btn-light btn-square mx-1" href="#"><i class="bi bi-linkedin"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="bg-light text-center p-4">
+                    <h5 class="text-uppercase">Jessica Taylor</h5>
+                    <p class="m-0">Pet Groomer</p>
+                </div>
+            </div>
+            <div class="team-item">
+                <div class="position-relative overflow-hidden">
+                    <img class="img-fluid w-100" src="../img/team-3.jpg" alt="Team Member">
+                    <div class="team-overlay">
+                        <div class="d-flex align-items-center justify-content-start">
+                            <a class="btn btn-light btn-square mx-1" href="#"><i class="bi bi-twitter"></i></a>
+                            <a class="btn btn-light btn-square mx-1" href="#"><i class="bi bi-facebook"></i></a>
+                            <a class="btn btn-light btn-square mx-1" href="#"><i class="bi bi-linkedin"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="bg-light text-center p-4">
+                    <h5 class="text-uppercase">Emily Johnson</h5>
+                    <p class="m-0">Pet Trainer</p>
+                </div>
+            </div>
+            <div class="team-item">
+                <div class="position-relative overflow-hidden">
+                    <img class="img-fluid w-100" src="../img/team-4.jpg" alt="Team Member">
+                    <div class="team-overlay">
+                        <div class="d-flex align-items-center justify-content-start">
+                            <a class="btn btn-light btn-square mx-1" href="#"><i class="bi bi-twitter"></i></a>
+                            <a class="btn btn-light btn-square mx-1" href="#"><i class="bi bi-facebook"></i></a>
+                            <a class="btn btn-light btn-square mx-1" href="#"><i class="bi bi-linkedin"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="bg-light text-center p-4">
+                    <h5 class="text-uppercase">Olivia Brown</h5>
+                    <p class="m-0">Pet Sitter</p>
+                </div>
+            </div>
+            <div class="team-item">
+                <div class="position-relative overflow-hidden">
+                    <img class="img-fluid w-100" src="../img/team-5.jpg" alt="Team Member">
+                    <div class="team-overlay">
+                        <div class="d-flex align-items-center justify-content-start">
+                            <a class="btn btn-light btn-square mx-1" href="#"><i class="bi bi-twitter"></i></a>
+                            <a class="btn btn-light btn-square mx-1" href="#"><i class="bi bi-facebook"></i></a>
+                            <a class="btn btn-light btn-square mx-1" href="#"><i class="bi bi-linkedin"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="bg-light text-center p-4">
+                    <h5 class="text-uppercase">Sophia Davis</h5>
+                    <p class="m-0">Pet Nutritionist</p>
+                </div>
+            </div>
+        </div>
         </div>
     </div>
     <!-- Team End -->
