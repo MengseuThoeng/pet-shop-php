@@ -20,7 +20,7 @@
 
 <body>
     <!-- Topbar Start -->
-    
+    <?php include_once '../components/topbar.php'; ?>
     <!-- Topbar End -->
 
 
@@ -126,8 +126,8 @@
     <!-- Back to Top -->
     <a href="#" class="btn btn-primary py-3 fs-4 back-to-top"><i class="bi bi-arrow-up"></i></a>
 
-
-     <?php include_once '../layout/script.php'; ?>
+    <!-- scriptss -->
+    <?php include_once '../layout/script.php'; ?>
 </body>
 
 </html>
